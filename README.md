@@ -7,5 +7,5 @@ Welcome to my Project
 4.The main purpose of the project is to get more used to with HTML, CSS.                                                                                                           
 5.Although we used a few lines of JavaScript in the project for necessary cases.
  
-Team Members- Subir , Sushant , sheeshpal(designer)
+Team Members- utsav
 
